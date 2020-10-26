@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "12.x"
+  },
   "name": "react-employee-directory",
   "version": "0.1.0",
   "private": true,
