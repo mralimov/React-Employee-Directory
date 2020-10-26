@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "12.x"
+    "node": "^12.18.2"
   },
   "name": "react-employee-directory",
   "version": "0.1.0",
